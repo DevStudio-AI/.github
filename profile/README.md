@@ -10,7 +10,7 @@ We build software that builds software — and verifies it works.
 
 ## VybeCoder
 
-**[VybeCoder](https://vybecoder.dev)** is our flagship product: an execution-verified AI software system that plans, generates, debugs, and verifies complete applications.
+**[VybeCoder](https://vybecoder.cloud)** is our flagship product: an execution-verified AI software system that plans, generates, debugs, and verifies complete applications.
 
 Most AI tools generate code and hand it back to you. VybeCoder follows through on the entire build — catching failures, fixing them, and verifying execution in real environments.
 
@@ -26,8 +26,8 @@ Most AI tools generate code and hand it back to you. VybeCoder follows through o
 
 ### Start building
 
-- **[vybecoder.dev](https://vybecoder.dev)** — Try VybeCoder
-- **[Pricing](https://vybecoder.dev/pricing)** — Starter $20/mo | Pro $50/mo | Zero markup on AI
+- **[vybecoder.cloud](https://vybecoder.cloud)** — Try VybeCoder
+- **[Pricing](https://vybecoder.cloud/pricing)** — Starter $20/mo | Pro $50/mo | Zero markup on AI
 
 ---
 
