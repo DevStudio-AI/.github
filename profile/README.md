@@ -27,7 +27,7 @@ Most AI tools generate code and hand it back to you. VybeCoder follows through o
 ### Start building
 
 - **[vybecoder.cloud](https://vybecoder.cloud)** — Try VybeCoder
-- **[Pricing](https://vybecoder.cloud/pricing)** — Starter $20/mo | Pro $50/mo | Zero markup on AI
+- **[Pricing](https://vybecoder.cloud/pricing)** — $50/mo | Zero markup on AI
 
 ---
 
